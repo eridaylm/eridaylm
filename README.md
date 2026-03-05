@@ -26,6 +26,7 @@ Passionate about clean architecture, type-safe systems, and seamless database in
 ### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ### Database
