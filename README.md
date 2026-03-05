@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build scalable and performant web applications using modern technologies like Solid.js, Rust, and Node.js.
 
