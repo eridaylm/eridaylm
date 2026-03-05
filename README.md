@@ -15,12 +15,23 @@ Passionate about clean architecture, type-safe systems, and seamless database in
 
 ## Tech Stack
 
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Solid](https://img.shields.io/badge/-SolidJS-2C4F7C?logo=solid&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### Deployment & Tools
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
