@@ -13,7 +13,7 @@ Passionate about clean architecture, type-safe systems, and seamless database in
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Solid](https://img.shields.io/badge/-SolidJS-2C4F7C?logo=solid&logoColor=white)
