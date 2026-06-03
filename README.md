@@ -1,7 +1,6 @@
 # Hello! I'm Eridayalma Zahra Yohar 👋
 
 🎓 Informatics Engineering Student at Telkom University  
-💼 Web Developer Intern at Special Skill Indonesia  
 
 ---
 
